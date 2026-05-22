@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hashim ALQassab
+# Hi 👋, I'm Hashim ALQassab <p> <img alt="logo" src="https://avatars.githubusercontent.com/u/173739240?v=4" height="32"/>
 
 <p align="center">
   <b>CIS Student • IOT & Cybersecurity Enthusiast • Builder</b>
@@ -49,10 +49,11 @@
 ---
 
 ## 📫 Connect Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-HOQsyber-181717?style=flat-square&logo=github)](https://github.com/HOQsyber)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hashim_Alqassab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashimalqassab)
-[![Telegram](https://img.shields.io/badge/Telegram-HOQ_Club-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/HOQ_Club_H)
-[![X](https://img.shields.io/badge/X-@125Hashem139-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/125Hashem139)
-
+<p>
+  <a href="https://github.com/HOQsyber"><img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/></a>
+  <a href="https://www.linkedin.com/in/hashimalqassab"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/></a>
+  <a href="https://t.me/HOQ_Club_H"><img alt="Telegram" src="https://cdn.simpleicons.org/telegram" height="32"/></a>
+  <a href="https://x.com/125Hashem139"><img alt="X" src="https://cdn.simpleicons.org/x" height="32"/></a>
+  <a href="https://wa.me/966577210941"><img alt="WhatsApp" src="https://cdn.simpleicons.org/whatsapp" height="32"/></a>
+</p>
 > 🎓 Computer Information System @ Imam Abdulrahman Bin Faisal University
