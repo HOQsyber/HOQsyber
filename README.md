@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hashim ALQassab <p> <img alt="logo" src="https://avatars.githubusercontent.com/u/173739240?v=4" height="32"/>
+# <p>Hi 👋🏼, I'm Hashim ALQassab <img alt="logo" src="https://avatars.githubusercontent.com/u/173739240?v=4" height="32"/></p>
 
 <p align="center">
   <b>CIS Student • IOT & Cybersecurity Enthusiast • Builder</b>
@@ -54,6 +54,5 @@
   <a href="https://www.linkedin.com/in/hashimalqassab"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/></a>
   <a href="https://t.me/HOQ_Club_H"><img alt="Telegram" src="https://cdn.simpleicons.org/telegram" height="32"/></a>
   <a href="https://x.com/125Hashem139"><img alt="X" src="https://cdn.simpleicons.org/x" height="32"/></a>
-  <a href="https://wa.me/966577210941"><img alt="WhatsApp" src="https://cdn.simpleicons.org/whatsapp" height="32"/></a>
 </p>
 > 🎓 Computer Information System @ Imam Abdulrahman Bin Faisal University
