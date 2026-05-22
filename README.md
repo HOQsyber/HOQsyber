@@ -65,6 +65,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hashim_Alqassab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashimalqassab)
 [![Telegram](https://img.shields.io/badge/Telegram-HOQ_Club-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/HOQ_Club_H)
 [![X](https://img.shields.io/badge/X-@125Hashem139-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/125Hashem139)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/966577210941)
 
 > 🎓 Computer Information System @ Imam Abdulrahman Bin Faisal University
