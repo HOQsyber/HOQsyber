@@ -9,13 +9,20 @@
 </p>
 
 ---
-
 - 🔭 **Currently building:** Hospital Management System (HMS) — full DB design with MySQL
 - 🤖 **Competition:** AI Math Solver integrating NLP + equation classification (برمجاثون ٣)
 - 🔐 **Learning:** Bug Bounty hunting & ethical hacking
 - ⚡ **Interests:** Cybersecurity, Arduino/IoT, AI Systems, and Database Design
-
 ---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HOQsyber&show_icons=true&theme=dark&cache_seconds=1" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=HOQsyber&theme=dark" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HOQsyber&layout=compact&theme=dark&cache_seconds=1" />
+</p>
 
 ## 🛠️ Languages & Tools
 
