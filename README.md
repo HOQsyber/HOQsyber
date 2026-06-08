@@ -42,11 +42,7 @@
   <img alt="Hashcat" src="https://cdn.simpleicons.org/hashcat" height="32"/>
   <img alt="Snort" src="https://cdn.simpleicons.org/snort" height="32"/>
 </p>
----
 
-## 📜 Certifications & Learning
-![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-Part_1-181717?logo=github)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Certified-181717?logo=github)
 
 ---
 
