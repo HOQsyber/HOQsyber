@@ -44,6 +44,12 @@
 </p>
 ---
 
+## 📜 Certifications & Learning
+![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-Part_1-181717?logo=github)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Certified-181717?logo=github)
+
+---
+
 ## 🚀 Featured Projects
 
 - **🏥 HMS Database** — Hospital Management System with full MySQL schema, 17 tables, triggers, stored procedures & 25 queries
